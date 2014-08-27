@@ -32,4 +32,4 @@ JSONKit needs some specific compile flags. To set these do the following;
 
 ## Support
 
-`ISLocation.framework` is fully supported by Intelligent Spatial Positoning. If you have any questions, comments, or bug reports, please contact us at [support@intelligentspatialpositioning.com](mailto:support@intelligentspatialpositioning.com).
+`ISMapView.framework` is fully supported by Intelligent Spatial Positoning. If you have any questions, comments, or bug reports, please contact us at [support@intelligentspatialpositioning.com](mailto:support@intelligentspatialpositioning.com).
