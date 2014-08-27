@@ -29,3 +29,7 @@ JSONKit needs some specific compile flags. To set these do the following;
 
 1. Go to your Xcode project settings, under Build Phases > Compile Sources
 2. Select JSONKit and add `-fno-objc-arc -Wno-deprecated-objc-isa-usage` as compiler flags. 
+
+## Support
+
+`ISLocation.framework` is fully supported by Intelligent Spatial Positoning. If you have any questions, comments, or bug reports, please contact us at [support@intelligentspatialpositioning.com](mailto:support@intelligentspatialpositioning.com).
